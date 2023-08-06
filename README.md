@@ -57,6 +57,7 @@ POST to [https://lumen10.semen.in.ua/api/user/sign-in](https://lumen10.semen.in.
 
 
 3. Recover passw:
+
 3.1 POST with 'email' field to [https://lumen10.semen.in.ua/api/user/recover-password](https://lumen10.semen.in.ua/api/user/recover-password)
    
 3.2 PATCH with 'token' field to [https://lumen10.semen.in.ua/api/user/recover-password](https://lumen10.semen.in.ua/api/user/recover-password)

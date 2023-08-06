@@ -58,6 +58,7 @@ POST to [https://lumen10.semen.in.ua/api/user/sign-in](https://lumen10.semen.in.
 
 3. Recover passw:
 3.1 POST with 'email' field to [https://lumen10.semen.in.ua/api/user/recover-password](https://lumen10.semen.in.ua/api/user/recover-password)
+   
 3.2 PATCH with 'token' field to [https://lumen10.semen.in.ua/api/user/recover-password](https://lumen10.semen.in.ua/api/user/recover-password)
 
 
@@ -70,3 +71,12 @@ GET to [https://lumen10.semen.in.ua/api/user/companies](https://lumen10.semen.in
 5. Add and attach companies to user:
 POST to [https://lumen10.semen.in.ua/api/user/companies](https://lumen10.semen.in.ua/api/user/companies)
 
+
+
+# **DB info:**
+[https://lumen10.semen.in.ua/test-database-connection](https://lumen10.semen.in.ua/test-database-connection)
+
+
+
+# **Relations demo:**
+[https://lumen10.semen.in.ua/entities](https://lumen10.semen.in.ua/entities)
